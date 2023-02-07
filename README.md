@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/LoRdZaMpA"><img src="https://api.daily.dev/devcards/67b77a0ebe594958887d1831dac0a5cc.png?r=379" width="400" alt="tharindu sampath's Dev Card"/></a>
+<a href="https://app.daily.dev/LoRdZaMpA"><img src="https://github.com/TharinduSampath2000/TharinduSampath2000/blob/main/devcard.svg" width="400" alt="tharindu sampath's Dev Card"/></a>
 <!--
 **TharinduSampath2000/TharinduSampath2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
