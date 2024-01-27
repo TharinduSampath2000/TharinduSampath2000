@@ -11,7 +11,7 @@ I'm currently a 3rd year undergraduate who passionate about technology. I love t
 * 🧠  I'm learning MERN Stack
 * 🤝  I'm open to collaborating on interesting projects
 
-<a href="https://app.daily.dev/LoRdZaMpA"><img src="https://github.com/TharinduSampath2000/TharinduSampath2000/blob/main/devcard.svg" width="400" alt="tharindu sampath's Dev Card"/></a>
+<a href="https://app.daily.dev/lordzampa"><img src="https://github.com/TharinduSampath2000/TharinduSampath2000/blob/main/devcard.svg" width="400" alt="tharindu sampath's Dev Card"/></a>
 
 <a href="https://www.github.com/TharinduSampath2000" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/TharinduSampath2000?logo=github&style=for-the-badge&color=22c55e&labelColor=1c1917" /></a>
