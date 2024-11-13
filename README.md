@@ -8,7 +8,7 @@ I'm currently a 3rd year undergraduate who passionate about technology. I love t
 
 * 🌍  I'm based in Kalutara, Sri Lanka
 * ✉️  You can contact me at [stharindu444@gmail.com](mailto:stharindu444@gmail.com)
-* 🧠  I'm learning MERN Stack
+* 🧠  I'm learning NextJs and AWS Cloud Services
 * 🤝  I'm open to collaborating on interesting projects
 
 <a href="https://app.daily.dev/lordzampa"><img src="https://github.com/TharinduSampath2000/TharinduSampath2000/blob/main/devcard.svg" width="400" alt="tharindu sampath's Dev Card"/></a>
