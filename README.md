@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Tharindu Sampath
 ========================================================================================================================================
 
-Computer Science Undergraduate | Programming Enthusiast
+Software Engineer | BSc. in Computer Science | Programming Enthusiast
 ---------------------------------------------------------
 
-I'm currently a 3rd year undergraduate who passionate about technology. I love to allocate my free time to read blog posts and learn new technologies.
+I'm a computer science graduate who passionate about technology. I love to allocate my free time to read blog posts and learn new technologies.
 
 * 🌍  I'm based in Kalutara, Sri Lanka
 * ✉️  You can contact me at [stharindu444@gmail.com](mailto:stharindu444@gmail.com)
